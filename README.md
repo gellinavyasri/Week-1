@@ -11,3 +11,9 @@ Objectives Completed
   -Model Evaluation
   -Forecasting
   -Final Model Testing and Saving the Model
+
+ # Week-3: App Development
+Developed app.py using Streamlit for interactive visualization
+Integrated trained model into a web-based UI
+Enabled users to select counties and view EV forecast trends
+Focused on usability, charts, and regional prediction interactivity
